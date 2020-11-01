@@ -27,7 +27,7 @@
 
 ## Задача 2
 
-Тази игра е подобна на "Snake and Ladders", само че ще е в едномерен масив.
+Тази игра е подобна на "Snakes and Ladders", само че ще е в едномерен масив.
 
 <img style="display:block;width:70%;margin:auto" src="snake and ladders 2.jpg">
 
