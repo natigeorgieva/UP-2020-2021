@@ -15,8 +15,15 @@ int main()
   
 	cout << random; //Това е само, за да се убедите, че всичко е точно
 
+	//В цикъл би изглеждало така:
+	for(int i=0; i<6; i++)
+	{
+		int randomNumber=rand()%6+1;
+		cout<<randomNumber;
+	}
+	//Ще ви изкара 6 случайни числа межу 1 и 6
+	
 	return 0;
-
 }
 
 // http://www.cplusplus.com/reference/cstdlib/rand/ - Ако се интересувате по-подробно. 
