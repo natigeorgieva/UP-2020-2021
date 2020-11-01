@@ -63,11 +63,10 @@
 <br>
 <img  style="vertical-align:middle;height:1em" src="https://render.githubusercontent.com/render/math?math=\Rightarrow4=2*2 %2B 0">
 <br>
-C:\Users\DevilPenta\Documents\ShareX\Screenshots\2020-10\chrome_5EmJpeuSTG.png
 
 ## Бонус задача
 
-<img  style="width:80%;display:block;margin:auto;" src="./img/drawing.png">
+<img  style="width:60%;display:block;margin:auto;" src="./img/drawing.png">
 
 По подадена точка от декартовата равнина проверете дали тя попада в някоя от областите оцветени в оранжево, където:
 
