@@ -16,3 +16,9 @@
 * Накрая колоните над главния диагонал (отдясно на наляво). Елементите в колоните да се обходят отдолу нагоре.
 
 <img style="display:block;width:30%;margin:auto" src="matrix.jpg">
+
+## Задача 3
+
+Да се обходи матрицата спираловдно, както е показано по-долу
+
+<img style="display:block;width:10%;margin:auto" src="spiral.jpg">
