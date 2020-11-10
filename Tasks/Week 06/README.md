@@ -4,6 +4,7 @@
 
 Обходете матрицата диагонално и изкарайте числата в съответния ред, както е показано отдолу:
 
+<img style="display:block;width:70%;margin:auto" src="diagonalmatrix.jpg">
 
 
 ## Задача 2
