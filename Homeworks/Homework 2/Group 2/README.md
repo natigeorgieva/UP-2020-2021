@@ -26,7 +26,7 @@
 
 ```
 Вход: race car
-Изхо: it's a palindrome
+Изхо: It's a palindrome
 
 Вход: some words
 Изход: Not a palindrome
