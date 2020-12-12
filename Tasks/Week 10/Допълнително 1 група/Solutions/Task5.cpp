@@ -9,7 +9,7 @@ int positions(string& str, int arr[])//функцията ще ни връща �
 	{
 		if (str[i] >= 'a' && str[i] <= 'z' || str[i] >= 'A' && str[i] <= 'Z')
 		{
-			if (i == lenght - 1)
+			if (i == lenght - 1)//в случай, че имаме дума, а се намираме в края на низа
 			{
 				arr[counter] = begin;
 				counter++;
