@@ -16,7 +16,7 @@
 
 ## Задача 3
 
-Да се напише функция, която по подадено естествено число x, да намери стойността на израза <img style = "height:1rem; vertical-align:middle" src="https://latex.codecogs.com/svg.latex?f(x) = 2f(x-2)+ f(x-1)">, ако за <img style = "height:1rem; vertical-align:middle" src="https://latex.codecogs.com/svg.latex?f(1) = 5, f(2) = 1">
+Да се напише функция, която по подадено естествено число x, да намери стойността на израза <img style = "height:1rem; vertical-align:middle" src="https://latex.codecogs.com/svg.latex?f(x)=2f(x-2)+f(x-1)">, ако за <img style = "height:1rem; vertical-align:middle" src="https://latex.codecogs.com/svg.latex?f(1)=5,f(2)=1">
 
 ## Задача 4
 
